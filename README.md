@@ -108,8 +108,8 @@ Install the following tools:
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone https://github.com/Hari9085/vehicle-service-management.git
+cd vehicle-service-management
 ```
 
 Replace the repository URL with your actual GitHub repository URL.
